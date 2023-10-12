@@ -93,6 +93,6 @@ fw.party.10k
 ggsave("Party(100w)_0vs1.pdf", fw.party.10k, width=8, height=8)
 ggsave("Party(100w)_0vs1.png", fw.party.10k, width=8, height=8)
 
-#pdf(fw.party.10k, file = "~/Desktop/FW/pltparty_10k_100w.pdf")
+#pdf(fw.party.10k, file = "pltparty_10k_100w.pdf")
 
 dev.off()
