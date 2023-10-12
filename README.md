@@ -1,5 +1,5 @@
 # Covid19_Partisanship_Visuals
-Taegyoon Kim, Nitheesha Nakka, Ishita Gopal, Bruce A. Desmarais, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, Frederick J. Boehmke
+Authors: Taegyoon Kim, Nitheesha Nakka, Ishita Gopal, Bruce A. Desmarais, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, Frederick J. Boehmke
 
 Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
 
